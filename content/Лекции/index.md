@@ -1,5 +1,5 @@
 ---
-title: Welcome, traveler
+title: Лекции
 ---
 
 This is a blank Quartz installation.
