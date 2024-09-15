@@ -1,6 +1,7 @@
 ---
 title: Welcome, traveler
 ---
+## Это лекции для ПИН2106
+Здесь сохранены лекции по рахличным дисциплинам в произвольном формате
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+На странице [[Лекции]] доступен полный список страниц для дисциплин 4го курса
